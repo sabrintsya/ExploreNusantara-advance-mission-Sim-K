@@ -1,22 +1,58 @@
-# ExploreNusantara Advance Mission Simulasi Kerja (Sim-K) Dari Harisenin
-Explore Nusantara adalah sebuah Website tentang Travel keindahan alam indonesia, ini adalah tugas project advance mission simulasi kerja fullstack developer dari harisenin.
 
-# Tampilan Website 
-![Macbook-Air-explorenusantara netlify app](https://github.com/user-attachments/assets/fad1fb56-8761-498b-84b2-34f2a60d91c6)
+# 🌍 **Explore Nusantara - Advance Mission Simulasi Kerja**  
 
-# Bahasa yang digunakan 
-- Html
-- css
-- javascript
+🚀 **Project Fullstack Developer - Harisenin**  
 
-# Instalasi
-- Kloning Repositori :
-- Bash
-- git clone https://github.com/sabrintsya/ExploreNusantara-advance-mission-Sim-K.git
+✨ **Explore Nusantara** adalah sebuah website yang menghadirkan **keindahan alam Indonesia** dalam konsep platform perjalanan (*travel website*).  
+Proyek ini dibuat sebagai bagian dari **Advance Mission - Simulasi Kerja Fullstack Developer** dari **Harisenin**.  
 
-# Instalasi Dependensi:
-- Bash
-- cd ExploreNusantara-advance-mission-Sim-K
-- npm install
+---
 
+## 🖥️ **Tampilan Website**  
+![Explore Nusantara](https://github.com/user-attachments/assets/fad1fb56-8761-498b-84b2-34f2a60d91c6)  
 
+🌐 **Live Demo:** [explorenusantara.netlify.app](https://explorenusantara.netlify.app)  
+
+---
+
+## 🛠 **Teknologi yang Digunakan**  
+✅ **Frontend:**  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript
+- 
+---
+
+## ⚙️ **Instalasi & Menjalankan Proyek**  
+
+### 1️⃣ **Clone Repositori**  
+Buka terminal dan jalankan perintah berikut:  
+```bash
+git clone https://github.com/sabrintsya/ExploreNusantara-advance-mission-Sim-K.git
+```
+  
+### 2️⃣ **Masuk ke Folder Proyek**  
+```bash
+cd ExploreNusantara-advance-mission-Sim-K
+```
+  
+### 3️⃣ **Instalasi Dependensi**  
+```bash
+npm install
+```
+  
+### 4️⃣ **Menjalankan Proyek**  
+```bash
+npm start
+```
+
+---
+
+## 🎯 **Fitur Utama**  
+✅ **Informasi Wisata Alam Indonesia** 🌿  
+✅ **Tampilan Responsif & Interaktif** 📱  
+✅ **Navigasi yang Mudah** 🗺️  
+
+---
+
+✨ **Selamat Menjelajah Nusantara!** 🇮🇩🚀  
